@@ -1,0 +1,6 @@
+name = "Module-Build-CheckLib"
+# badges = ["travis"]
+authority="cpan:CODEHEX"
+
+module_maker="ModuleBuildTiny"
+
